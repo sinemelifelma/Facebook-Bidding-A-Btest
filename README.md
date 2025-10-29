@@ -4,22 +4,6 @@ This project analyzes whether Facebook's new **Average Bidding** method performs
 
 ---
 
-## 📂 Project Structure
-facebook-bidding-abtest/
-│
-├── data/
-│   └── ab_testing.xlsx
-│
-├── notebooks/
-│   └── ab_test_analysis.ipynb
-│
-├── results/
-│   └── test_summary.csv
-│
-├── README.md
-└── requirements.txt
----
-
 ## 🚀 Steps
 1. Load and inspect datasets  
 2. Define and test hypotheses  
