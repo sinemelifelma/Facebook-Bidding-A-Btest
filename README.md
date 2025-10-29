@@ -38,4 +38,5 @@ Data-driven validation prevents unnecessary strategic changes.
 **Sinem Elif Elma**  
 📫 [LinkedIn](https://www.linkedin.com/in/sinem-elif-elma-bab7579b/)  
 📊 [Kaggle Script](https://www.kaggle.com/code/sinemelifelma/a-b-testing-facebook-bidding-strategies) 
+
 ✍️ [Medium Story](https://medium.com/@sinemelifelma/c9f87ede388e)
